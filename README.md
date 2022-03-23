@@ -9,6 +9,6 @@ Libraries: Pandas, Numpy, Matplotlib, Seaborn, Pymystem3, SciPy, Scikit-Learn, L
 
 ## List of projects
 
- № | Project | Description | Stack
---- | --- | --- | ---
-| [Аnalysis of mobile tariffs](mobile_tariffs_analysis) | Analysis of 2 mobile tariffs in order to identify the most profitable | *pandas*, *numpy*, *scipy*, *matplotlib*, *seaborn* | Done |
+| № | Название проекта | Описание | Используемые библиотеки | 
+| :---------------------- | :---------------------- | :---------------------- | :---------------------- |
+| 1 | [Исследование надёжности заёмщиков](credit-bank) | Изучение данных о клиентах кредитного отдела банка и определение влияния параметров на факт погашения кредита в срок. | *pandas*, *PyMystem3* |
