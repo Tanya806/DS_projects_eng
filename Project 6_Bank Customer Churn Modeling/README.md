@@ -1,11 +1,13 @@
-#  Отток клиентов
+#  Bank Customer Churn Modeling
 
 Из «Бета-Банка» стали уходить клиенты. Каждый месяц. Немного, но заметно. Банковские маркетологи посчитали: сохранять текущих клиентов дешевле, чем привлекать новых.
 
-Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Вам предоставлены исторические данные о поведении клиентов и расторжении договоров с банком.
+Clients started leaving the bank every month. Banking marketers have found that it is cheaper to retain existing customers than it is to attract new ones.
 
-Постройте модель с предельно большим значением F1-меры. Чтобы сдать проект успешно, нужно довести метрику до 0.59. Проверьте F1-меру на тестовой выборке самостоятельно.
+It is necessary to predict whether the client will leave the bank in the near future or not. You are provided with historical data on customer behavior and termination of agreements with the bank.
 
-Дополнительно измеряйте AUC-ROC, сравнивайте её значение с F1-мерой.
+Build a model with an extremely large F1-measure. To pass the project successfully, you need to bring the metric to 0.59. Check the F1-measure on the test set yourself.
 
-Источник данных: https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling
+Additionally, measure the AUC-ROC, compare its value with the F1-measure.
+
+Data source: https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling
