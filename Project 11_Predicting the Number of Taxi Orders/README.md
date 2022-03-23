@@ -1,13 +1,12 @@
-# Прогнозирование заказов такси
-*требуется скорректировать визуализацию в файле (проблема с отражением после скачивания)
+# Predicting the Number of Taxi Orders
 
-Компания Такси собрала исторические данные о заказах такси в аэропортах. Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час. Постройте модель для такого предсказания.
-Значение метрики RMSE на тестовой выборке должно быть не больше 48.
+The Taxi company has collected historical data on taxi orders at airports. To attract more drivers during the peak period, you need to predict the number of taxi orders for the next hour. Build a model for such a prediction.
+The value of the RMSE metric on the test sample should be no more than 48.
 
-Вам нужно:
+You need:
 
-Загрузить данные и выполнить их ресемплирование по одному часу.
-Проанализировать данные.
-Обучить разные модели с различными гиперпараметрами. Сделать тестовую выборку размером 10% от исходных данных.
-Проверить данные на тестовой выборке и сделать выводы.
-Данные лежат в файле taxi.csv. Количество заказов находится в столбце num_orders (от англ. number of orders, «число заказов»).
+Load the data and resample it one hour at a time.
+Analyze data.
+Train different models with different hyperparameters. Make a test sample of 10% of the original data.
+Check the data on the test sample and draw conclusions.
+The data is in the taxi.csv file. The number of orders is in the num_orders column (from the English number of orders, “number of orders”).
