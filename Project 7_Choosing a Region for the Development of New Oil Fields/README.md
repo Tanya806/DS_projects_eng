@@ -2,7 +2,7 @@
 
 Let's say you work for a mining company. We need to decide where to drill a new well.
 The steps for choosing a location are usually as follows:
-- Characteristics for wells are collected in the selected region: oil quality and volume of its reserves;
+- In the selected region, characteristics for wells are collected: oil quality and the volume of its reserves;
 - Build a model to predict the volume of reserves in new wells;
 - Choose the wells with the highest value estimates;
 - Determine the region with the maximum total profit of selected wells.
