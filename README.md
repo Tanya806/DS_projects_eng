@@ -9,6 +9,13 @@ Libraries: Pandas, Numpy, Matplotlib, Seaborn, Pymystem3, SciPy, Scikit-Learn, L
 
 ## List of projects
 
+## 11. [Predicting the Number of Taxi Orders](https://github.com/Tanya806/DS_projects_eng/tree/main/Project%2011_Predicting%20the%20Number%20of%20Taxi%20Orders)
+#### Brief description
+There is historical data on taxi orders at airports. To attract more drivers during the peak period, you need to predict the number of taxi orders for the next hour. We need to build a model for such a prediction.
+
+#### Technology stack
+`Python` `Pandas` `matplotlib` `numpy` `TimeSeriesSplit` `machine learning` `data resampling` `data chronology` `time series decomposition into trend and seasonal components` `additional calendar features` `Logistic Regression` `Decision Tree` `Random Forest` `LightGBM` `CatBoost` `Dummy Regressor` `Hyperparameter matching` `RMSE metric` `Feature importance factor`
+
 ## 10. [Оценка стоимости автомобилей](https://github.com/Tanya806/DS_projects_eng/tree/main/Project%2010_Car%20Price%20Prediction%20Model)
 #### Brief description
 Selection and training model to determine the market value of used cars.
