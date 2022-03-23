@@ -11,7 +11,7 @@ Libraries: Pandas, Numpy, Matplotlib, Seaborn, Pymystem3, SciPy, Scikit-Learn, L
 
 
 #### Project 1 
-###[Research on the reliability of borrowers](https://github.com/Tanya806/DS_projects_eng/tree/main/Project%201_Research%20on%20the%20reliability%20of%20borrowers)
+### [Research on the reliability of borrowers](https://github.com/Tanya806/DS_projects_eng/tree/main/Project%201_Research%20on%20the%20reliability%20of%20borrowers)
 
 #### Brief description
 The customer of the project is the credit department of a commercial bank. It is required to find out whether the marital status and the number of children of the client affect the fact of repaying the loan on time. Input data from the bank - statistics on the solvency of customers.
