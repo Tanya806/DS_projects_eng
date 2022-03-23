@@ -1,17 +1,17 @@
-# Прогнозирование процента восстановления золота из руды
+# Gold recovery rate prediction
 
-Требуется построить модель, которая должна предсказать коэффициент восстановления золота из золотосодержащей руды. В нашем распоряжении данные с параметрами добычи и очистки руды.
-Модель поможет оптимизировать производство, чтобы не запускать предприятие с убыточными характеристиками.
+It is required to build a model that should predict the recovery factor of gold from gold ore. We have data with the parameters of mining and ore refining.
+The model will help to optimize production in order not to launch an enterprise with unprofitable characteristics.
 
-В работе используются следующие знания технологического процесса восстановления золота из золотосодержащей руды.  
+The work uses the following knowledge of the technological process of recovering gold from gold ore.
 
-## Описание стадий технологического процесса:
+## Description of the stages of the technological process:
 
-### 1. Флотация (первичная обработка руды)
-Во флотационную установку подаётся дроблёная смесь золотосодержащей руды. После обогащения получается черновой концентрат и «отвальные хвосты», то есть остатки продукта с низкой концентрацией ценных металлов.
-На стабильность этого процесса влияет непостоянное и неоптимальное физико-химическое состояние флотационной пульпы (смеси твёрдых частиц и жидкости).
+### 1. Flotation (primary ore processing)
+A crushed mixture of gold-bearing ore is fed into the flotation plant. After enrichment, a rough concentrate and “dump tails” are obtained, that is, product residues with a low concentration of valuable metals.
+The stability of this process is affected by the unstable and non-optimal physico-chemical state of the flotation pulp (a mixture of solid particles and liquid).
 
-### 2. Очистка
-Черновой концентрат проходит две стадии очистки. На выходе второго этапа получается финальный концентрат. На каждом этапе появляются новые отвальные хвосты.
+### 2. Cleaning
+The crude concentrate goes through two stages of purification. At the output of the second stage, the final concentrate is obtained. At each stage, new dump tailings appear.
 
 ![image](https://user-images.githubusercontent.com/44804103/141651417-6bb3c212-6487-4640-822d-20e96d35e50b.png)
