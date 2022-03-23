@@ -1,9 +1,9 @@
-# Определение стоимости автомобилей
+# Car Price Prediction Model
 
-Сервис по продаже автомобилей с пробегом разрабатывает приложение для привлечения новых клиентов. В нём можно быстро узнать рыночную стоимость своего автомобиля. В вашем распоряжении исторические данные: технические характеристики, комплектации и цены автомобилей. Вам нужно построить модель для определения стоимости.
+Used car dealership is developing an app to attract new customers. It allows you to quickly find out the market value of your vehicle. Historical data is at your disposal: technical characteristics, configurations and prices of vehicles. You need to build a model to determine the cost.
 
-Заказчику важны:
+The customer is important:
 
-качество предсказания;
-скорость предсказания;
-время обучения.
+prediction quality;
+prediction speed;
+studying time.
