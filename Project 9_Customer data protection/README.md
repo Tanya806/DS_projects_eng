@@ -1,4 +1,4 @@
-# Защита персональных данных клиентов
+# Customer data protection
 
-Вам нужно защитить данные клиентов страховой компании «Хоть потоп». Разработайте такой метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию. Обоснуйте корректность его работы.
-Нужно защитить данные, чтобы при преобразовании качество моделей машинного обучения не ухудшилось. Подбирать наилучшую модель не требуется.
+You need to protect the data of customers of the insurance company "Though the Flood". Develop a data transformation method that makes it difficult to recover personal information from it. Justify the correctness of his work.
+You need to protect the data so that the quality of the machine learning models does not deteriorate during the transformation. There is no need to select the best model.
