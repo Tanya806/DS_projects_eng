@@ -9,7 +9,19 @@ Libraries: Pandas, Numpy, Matplotlib, Seaborn, Pymystem3, SciPy, Scikit-Learn, L
 
 ## List of projects
 
+## 7. [Choosing a Region for the Development of New Oil Fields](https://github.com/Tanya806/DS_projects_eng/tree/main/Project%207_Choosing%20a%20Region%20for%20the%20Development%20of%20New%20Oil%20Fields)
+#### Brief description
+Decide in which region to extract oil. Building a machine learning model that will help determine the region where mining will bring the most profit with the least risk of loss
 
+#### Technology stack
+`Python` `Pandas` `Numpy` `machine learning` `Matplotlib` `Sklearn` `data preprocessing` `Correlation matrix` `StandardScaler` `Linear Regression` `Bootstrap` `MSE metric` `RMSE metric` `non-standard quality metric` `histogram` `normal distribution`
+
+## 6. [Bank Customer Churn Modeling](https://github.com/Tanya806/DS_projects_eng/tree/main/Project%205_Model%20to%20Determine%20a%20Suitable%20Tariff)
+#### Brief description
+Analysis of the outflow of clients from the bank for choosing a strategy (retaining old clients or attracting new clients).
+
+#### Technology stack
+`Python`, `Pandas`, `Matplotlib`, `Sklearn`, `Machine Learning`, `Data Preprocessing`, `Direct Coding`, `One-Hot Encoding`, `upsampling`, `downsampling`, `Logistic Regression`, `Random Forest`, ` Decision Tree`, `AUC-ROC`, `F1 metric`, `non-standard quality metric`, `histogram` `normal distribution`
 
 ## 5. [Model to Determine a Suitable Tariff](https://github.com/Tanya806/DS_projects_eng/tree/main/Project%205_Model%20to%20Determine%20a%20Suitable%20Tariff)
 #### Brief description
