@@ -11,4 +11,4 @@ Libraries: Pandas, Numpy, Matplotlib, Seaborn, Pymystem3, SciPy, Scikit-Learn, L
 
  № | Project | Description | Stack
 --- | --- | --- | ---
-01 | [Bank Data Analysis: Borrower Reliability Research](https://github.com/Tanya806/DS_projects_eng/Project 1_Research on the reliability of borrowers/) | Based on statistics on the solvency of clients, investigate whether the marital status and the number of the client's children affect the fact of repayment of the loan on time. | *Python, Pandas, PyMystem3*
+| [Аnalysis of mobile tariffs](mobile_tariffs_analysis) | Analysis of 2 mobile tariffs in order to identify the most profitable | *pandas*, *numpy*, *scipy*, *matplotlib*, *seaborn* | Done |
