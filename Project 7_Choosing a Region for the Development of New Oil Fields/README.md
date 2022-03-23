@@ -1,14 +1,12 @@
-# Выбор локации для скважины
+# Choosing a Region for the Development of New Oil Fields
 
-Допустим, вы работаете в добывающей компании «ГлавРосГосНефть». Нужно решить, где бурить новую скважину.
-Шаги для выбора локации обычно такие:
+Let's say you work for a mining company. We need to decide where to drill a new well.
+The steps for choosing a location are usually as follows:
+- Characteristics for wells are collected in the selected region: oil quality and volume of its reserves;
+- Build a model to predict the volume of reserves in new wells;
+- Choose the wells with the highest value estimates;
 
-В избранном регионе собирают характеристики для скважин: качество нефти и объём её запасов;
+The region with the maximum total profit of the selected wells is determined.
 
-Строят модель для предсказания объёма запасов в новых скважинах;
-
-Выбирают скважины с самыми высокими оценками значений;
-
-Определяют регион с максимальной суммарной прибылью отобранных скважин.
-
-Вам предоставлены пробы нефти в трёх регионах. Характеристики для каждой скважины в регионе уже известны. Постройте модель для определения региона, где добыча принесёт наибольшую прибыль. Проанализируйте возможную прибыль и риски техникой Bootstrap.
+You have been provided with oil samples in three regions. The characteristics for each well in the region are already known. Build a model to determine the region where mining will bring the most profit. 
+Analyze possible profits and risks using the Bootstrap technique.
