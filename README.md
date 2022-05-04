@@ -16,7 +16,8 @@ There is historical data on taxi orders at airports. To attract more drivers dur
 #### Technology stack
 `Python` `Pandas` `matplotlib` `numpy` `TimeSeriesSplit` `machine learning` `data resampling` `data chronology` `time series decomposition into trend and seasonal components` `additional calendar features` `Logistic Regression` `Decision Tree` `Random Forest` `LightGBM` `CatBoost` `Dummy Regressor` `Hyperparameter matching` `RMSE metric` `Feature importance factor`
 
-## 10. [Оценка стоимости автомобилей](https://github.com/Tanya806/DS_projects_eng/tree/main/Project%2010_Car%20Price%20Prediction%20Model)
+## 10. [Car price valuation]
+(https://github.com/Tanya806/DS_projects_eng/tree/main/Project%2010_Car%20Price%20Prediction%20Model)
 #### Brief description
 Selection and training model to determine the market value of used cars.
 
